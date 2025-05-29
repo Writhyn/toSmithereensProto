@@ -1,0 +1,5 @@
+### To Smithereens Deck: Player1
+3 basic1
+3 system1
+3 tactical1
+3 tech1
